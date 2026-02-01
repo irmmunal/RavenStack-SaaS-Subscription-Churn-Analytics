@@ -8,7 +8,6 @@ A comprehensive data analysis project investigating customer retention patterns 
 
 **Original Dataset:** RavenStack Synthetic SaaS Dataset (Multi-Table)  
 **Author:** River @ Rivalytics  
-**Source:** [Kaggle]([[https://rivalytics.medium.com](https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset)](https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset))  
 **License:** MIT-like (fully synthetic, no PII)
 
 *This analysis is built upon the RavenStack synthetic dataset created by River @ Rivalytics. All credit for the original data generation goes to the dataset author.*
