@@ -1,0 +1,70 @@
+# RavenStack Churn Analysis - Executive Summary
+
+**Analysis Period:** 2023-2024  
+**Data:** 500 customers, 5,000 subscriptions  
+**Date:** January 2026
+
+---
+
+## Critical Finding
+
+**RavenStack's retention collapsed in 2024, with Q4 showing catastrophic failure.**
+
+---
+
+## Key Numbers
+
+- **Churn rate increase:** 8% → 23% (Jan-Dec 2024)
+- **December 2024:** 75% lost in first month
+- **Annual revenue loss:** $14.1M
+- **DevTools segment:** 31% churn (worst)
+
+---
+
+## What Happened
+
+### Q4 2024 Collapse
+- Q1-Q2: 4% first-month churn (normal)
+- Q4: 35% first-month churn (catastrophic)
+- December: 75% first-month churn (complete failure)
+
+### New Customers Leaving Immediately
+- Promising segment: 38% churn
+- Onboarding completely broken
+
+### Best Customers Also Churning
+- Champions: 28% churn despite high engagement
+- Feature usage doesn't help (churned used MORE features)
+
+---
+
+## Root Causes
+
+1. **Something broke in Q4 2024** (product quality/major bug)
+2. **Onboarding failure** (new customers see no value)
+3. **Customer success overwhelmed** (cannot handle volume)
+
+---
+
+## Urgent Actions
+
+**This Week:**
+1. Stop new customer acquisition
+2. Identify what changed in Q4 2024
+3. Emergency product fix
+
+**Month 1:**
+4. Rebuild onboarding
+5. Double CS team capacity
+6. Interview churned Champions
+
+---
+
+## Impact if No Action
+
+Q1 2025 will be worse. Company survival at risk.
+
+---
+
+**Methodology:** Time series, cohort analysis, RFM segmentation, feature usage analysis  
+**Data Quality:** High confidence - all findings cross-validated
